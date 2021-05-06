@@ -1,0 +1,2 @@
+# dynamic-contents-insert
+JavaScriptで動的にコンテンツを追加するための汎用ライブラリ
