@@ -5,7 +5,7 @@ JavaScriptで動的にコンテンツを追加するための汎用ライブラ�
 
 1. please set dynamic-contents-insert.js in your website.
 2. please set configuration javascript object.
-3. run dynamicContentsInsert() in your page.
+3. run dynamicContentsInsert(configuration) in your page.
 
 ## configuration object
 
