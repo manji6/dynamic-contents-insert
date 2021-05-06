@@ -38,7 +38,7 @@ var configuration = [
 ]
 ```
 
-### aboout "contents.type" pattern
+### about "contents.type" pattern
 this function use "element.insertAdjacentHTML" function.
 so if you want to know more detail, please see below.
 
